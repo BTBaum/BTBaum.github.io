@@ -1,0 +1,13 @@
+#ourTherapist {
+	text-align: left;
+}
+
+#therapist {
+	background-color: cmyk(71%, 0%, 33%, 8%);
+}
+
+
+
+.maps iframe{
+    pointer-events: none;
+}
