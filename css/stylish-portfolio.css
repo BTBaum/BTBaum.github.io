@@ -156,7 +156,7 @@ hr.small {
     position: relative;
     width: 100%;
     height: 100%;
-    background: url(../img/ibh_logo_web.png) no-repeat center center scroll;
+    background: url(../img/dropLogo.png) no-repeat center center scroll;
     -webkit-background-size: 65%;
     -moz-background-size: 65%;
     background-size: 65%;
@@ -228,17 +228,19 @@ hr.small {
 /* Map */
 
 .map {
-    height: 500px;
+    height: auto;
+    background-color: #80374A;
 }
 
 @media(max-width:768px) {
     .map {
-        height: 75%;
+        height:auto;
     }
 }
 
 /* Footer */
 
 footer {
-    padding: 100px 0;
+    padding: 10px 0;
+    color: #000;
 }

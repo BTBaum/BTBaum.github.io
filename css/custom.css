@@ -6,8 +6,15 @@
 	background-color: cmyk(71%, 0%, 33%, 8%);
 }
 
+#contact-info {
+	#25ABA4
+}
+
 
 
 .maps iframe{
-    pointer-events: none;
+	draggable: false;
+	zoomControl: false;
+	scrollwheel: false;
+	disableDoubleClickZoom: true;
 }
