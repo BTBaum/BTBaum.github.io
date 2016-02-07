@@ -10,7 +10,13 @@
 	#25ABA4
 }
 
+#sidebar-wrapper {
+	background-color: #999;
+}
 
+.sidebar-nav li a {
+	color: #000;
+}
 
 .maps iframe{
 	draggable: false;
